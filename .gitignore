@@ -30,7 +30,7 @@
 .pub-cache/
 .pub/
 /build/
-
+lib/github_oauth_credentials.dart
 # Web related
 lib/generated_plugin_registrant.dart
 
